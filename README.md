@@ -1,5 +1,5 @@
-- 👋 Hi, My Name is Sheelendra rajpoot. i belong to Aligarh.
-- 👀 I am Working in hitech Robotics as a Robotics Software Engineer Tranee
+- 👋 Hi, My Name is Sheelendra rajpoot. I belong to Aligarh.
+- 👀 I am Working in Novus hitech Robotics as JE
 - 🌱 I’m currently learning  AI/ML and focus to Build Models and algorithms
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: ...
